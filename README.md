@@ -74,3 +74,13 @@ To transform raw e-commerce transaction data into meaningful business insights u
 **Database:** MySQL  
 **Analysis:** SQL  
 **Project Type:** Business Analytics / SQL Portfolio Project
+
+
+## 👨‍💻 Author
+
+**Adarsh Nadda**
+
+Data Analyst | SQL Learner
+
+🔗 **GitHub:** [Adarsh Nadda][https://github.com/your-](https://github.com/Adarshnadda21)  
+💼 **LinkedIn:** [Adarsh Nadda](https://www.linkedin.com/in/adarsh-nadda-1a90bb419)
